@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Famithkk%2FAnaadyanta-Backend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Famithkk%2FAnaadyanta-Backend?ref=badge_shield)
+
 AYBackend
 ---------
 
@@ -10,3 +12,7 @@ Written in `python3` and `django`
 Uses sqlite by default.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Famithkk%2FAnaadyanta-Backend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Famithkk%2FAnaadyanta-Backend?ref=badge_large)
