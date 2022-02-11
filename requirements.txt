@@ -24,7 +24,7 @@ olefile==0.44
 openpyxl==2.4.9
 phonenumberslite==8.8.8
 Pillow==4.3.0
-protobuf==3.5.1
+protobuf==3.15.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycryptodome==3.4.3
